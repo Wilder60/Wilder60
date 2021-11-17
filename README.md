@@ -1,6 +1,6 @@
 ### Heyo, welcome to my Github! 👋
 
-I am a DevOps Engineer that focuses in DevOps and Cloud Native development.
+I am a DevOps Engineer that focuses on DevOps and Cloud Native development.
 
 <!--
 **Wilder60/Wilder60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
